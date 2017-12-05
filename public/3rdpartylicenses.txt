@@ -103,6 +103,10 @@ MIT
 MIT
 MIT
 
+ngx-cookie-service@1.0.9
+MIT
+MIT
+
 @angular/forms@4.4.6
 MIT
 MIT
